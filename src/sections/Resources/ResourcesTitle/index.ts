@@ -1,0 +1,1 @@
+export { ResourcesTitleSection } from "./ResourcesTitleSection";

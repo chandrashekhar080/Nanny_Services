@@ -1,0 +1,1 @@
+export { ResourceTabs } from "./ResourceTabs";
