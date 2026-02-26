@@ -1,0 +1,1 @@
+export {CaregiverProfileDetail} from './CaregiverProfileDetail';
