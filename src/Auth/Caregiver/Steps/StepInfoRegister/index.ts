@@ -1,0 +1,1 @@
+export { StepInfoRegister } from './StepInfoRegister';
